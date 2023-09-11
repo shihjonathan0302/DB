@@ -1,6 +1,6 @@
 # 111-2 Database Systems
 ## Info
->* Lecture: [Pecu(蔡芸琤老師)](https://github.com/pecu?tab=repositories)
+>* Lecture: [Pecu（蔡芸琤老師)](https://github.com/pecu?tab=repositories)
 >* Name: [施宏儒](https://shihjonathan0302.github.io/Web/web1/)
 >* Dpartment: [TAHRD 3](https://www.tahrd.ntnu.edu.tw)
 >
