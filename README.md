@@ -7,7 +7,10 @@
 ## Notes
 >* PPT
 >   + [Week1：Course planning and description](https://docs.google.com/presentation/d/1CP0D92DA8Ae8oyIKSquqUuTUpVqwLGT-14T32l9pf5U/edit#slide=id.g241186a303b_0_82)
->   + [Week2：CRUD in SQL DB](https://docs.google.com/presentation/d/1amn8pDX2Wx4N6ZjzhCGoQFJH4DqaRcQ2DJAdg3hbIrA/edit#slide=id.g23dd2219a46_0_124) 
+>   + [Week2：CRUD in SQL DB](https://docs.google.com/presentation/d/1amn8pDX2Wx4N6ZjzhCGoQFJH4DqaRcQ2DJAdg3hbIrA/edit#slide=id.g23dd2219a46_0_124)
+>* Course Recordings
+>   + [Week1](https://www.youtube.com/watch?v=idhUbF1req4)
+>   + [Week2](https://www.youtube.com/watch?v=qGaGgdm_YtY) 
 ## Homework
 >* HW0
 >   + [Develpment Environment Settings]() 
