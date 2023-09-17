@@ -10,7 +10,10 @@
 >   + [Week2：CRUD in SQL DB](https://docs.google.com/presentation/d/1amn8pDX2Wx4N6ZjzhCGoQFJH4DqaRcQ2DJAdg3hbIrA/edit#slide=id.g23dd2219a46_0_124)
 >* Course Recordings
 >   + [Week1](https://www.youtube.com/watch?v=idhUbF1req4)
->   + [Week2](https://www.youtube.com/watch?v=qGaGgdm_YtY) 
+>   + [Week2](https://www.youtube.com/watch?v=qGaGgdm_YtY)
+>* Tools
+>   + [Repo. Link](https://docs.google.com/spreadsheets/d/1Q7xZrNQcNulzj7rhAGlexjkjkXMrw-MnCfyo7CtSp_o/edit#gid=847386397)
+>   + [ChatGPT](https://chat.openai.com/?model=text-davinci-002-render-sha)
 ## Homework
 >* HW0
 >   + [Develpment Environment Settings](https://youtu.be/yTxss5x93rw) 
