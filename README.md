@@ -13,6 +13,6 @@
 >   + [Week2](https://www.youtube.com/watch?v=qGaGgdm_YtY) 
 ## Homework
 >* HW0
->   + [Develpment Environment Settings]() 
+>   + [Develpment Environment Settings](https://youtu.be/yTxss5x93rw) 
 ## Final
 >
