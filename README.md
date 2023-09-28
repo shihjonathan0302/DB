@@ -19,7 +19,7 @@
 ## Homework
 >* HW0
 >   + [Develpment Environment Settings](https://youtu.be/yTxss5x93rw)
->* HW0
+>* HW1
 >   + [Create your Own Database](https://youtu.be/yTxss5x93rw) 
 ## Final
 >
