@@ -18,6 +18,8 @@
 >   + [ChatGPT](https://chat.openai.com/?model=text-davinci-002-render-sha)
 ## Homework
 >* HW0
->   + [Develpment Environment Settings](https://youtu.be/yTxss5x93rw) 
+>   + [Develpment Environment Settings](https://youtu.be/yTxss5x93rw)
+>* HW0
+>   + [Create your Own Database](https://youtu.be/yTxss5x93rw) 
 ## Final
 >
