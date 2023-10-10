@@ -20,6 +20,6 @@
 >* HW0
 >   + [Develpment Environment Settings](https://youtu.be/yTxss5x93rw)
 >* HW1
->   + [Create your Own Database](https://youtu.be/oz3EZQP6k-Q）
+>   + [Create your Own Database]（https://youtu.be/oz3EZQP6k-Q）
 ## Final
 >
