@@ -21,7 +21,7 @@ app.post("/createCustomers", (req, res) => {
 
  console.log(id);
  console.log(name);
- console.log(gender);
+ console.log(gender)
 
   db.query(
     "INSERT INTO restaurant.customers (customer_id,customer_name,custumer_gender) VALUES (?,?,?)",
