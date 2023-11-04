@@ -23,7 +23,7 @@
 >   + [Develpment Environment Settings](https://youtu.be/yTxss5x93rw)
 >* HW1
 >   + [Create your Own Database](https://youtu.be/oz3EZQP6k-Q)
->   ![Ideashare DB Structure]([https://github.com/shihjonathan0302/DB/blob/main/截圖%202023-11-05%20上午1.57.54.png](https://github.com/shihjonathan0302/DB/blob/main/截圖%202023-11-05%20上午2.08.12.png))
+>   ![Ideashare DB Structure](https://github.com/shihjonathan0302/DB/blob/main/截圖%202023-11-05%20上午2.08.12.png)
 >* HW2
 >   + [Create your Own Database-2](https://youtu.be/FnrwJmhhVAg)
 >* HW3
