@@ -29,4 +29,5 @@
 >* HW3
 >   + [Full Stack Database with No-SQL Language]()
 ## Final
->
+>* First Presentaion (1)
+>   + [Introduction of Final Project](https://youtu.be/RrjfI8GIhKY)
