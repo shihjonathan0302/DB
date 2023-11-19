@@ -32,4 +32,4 @@
 >* First Presentaion (1)
 >   + [Introduction of Final Project](https://youtu.be/RrjfI8GIhKY)
 >* First Presentaion (2)
->   + [Introduction of Final Project](https://youtu.be/pw62aHtQERc)
+>   + [Project Details](https://youtu.be/pw62aHtQERc)
