@@ -27,7 +27,9 @@
 >* HW2
 >   + [Create your Own Database-2](https://youtu.be/FnrwJmhhVAg)
 >* HW3
->   + [Full Stack Database with No-SQL Language]()
+>   + [Full Stack Database with No-SQL Language](https://youtu.be/knWtIjHdOmg)
 ## Final
 >* First Presentaion (1)
 >   + [Introduction of Final Project](https://youtu.be/RrjfI8GIhKY)
+>* First Presentaion (2)
+>   + [Project Details](https://youtu.be/pw62aHtQERc)
