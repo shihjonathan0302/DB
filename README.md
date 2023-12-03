@@ -31,5 +31,7 @@
 ## Final
 >* First Presentaion (1)
 >   + [Introduction of Final Project](https://youtu.be/RrjfI8GIhKY)
->* First Presentaion (2)
+>* Second Presentaion (2)
 >   + [Project Details](https://youtu.be/pw62aHtQERc)
+>* Third Presentaion (3)
+>   + [More Improvements](https://youtu.be/eADn1KkFo9o)
